@@ -5,4 +5,6 @@ spl_autoload_register(function($class){
 	}
 );
 
+echo "test";
+
 ?>
