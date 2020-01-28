@@ -5,6 +5,6 @@ spl_autoload_register(function($class){
 	}
 );
 
-echo "test 123";
+echo "test 123asdsad";
 
 ?>
